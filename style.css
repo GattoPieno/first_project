@@ -1,0 +1,143 @@
+.{
+    border: 0px;
+    margin: 0px;
+}
+.banner{
+    background: url("image/banner.jpg") center center no-repeat;
+    height: 800px;
+    
+}
+.signin-about{
+    height: 79px;
+    text-align: right;
+
+}
+.Signin, .About_Us{
+    margin-top: 20px;
+    text-decoration: none;
+    padding: 7px;
+    display: inline-block;
+    text-transform: uppercase;
+
+}
+.Signin{
+    color: white;
+    margin-right: 60px;
+    margin-left: 20px;
+    border: 2px solid green;
+    border-radius: 20px;
+    background-color: rgb(123, 214, 123);
+}
+.logo{
+    
+    background:url("image/hapoERP.png") center center no-repeat;
+    height: 100px;
+    
+
+}
+.text{
+    text-align: center;
+}
+.btn-start-now{
+    text-align: center;
+    margin-top: 30px;
+}
+.start_now{
+    text-transform: uppercase;
+    border:1px  solid green;
+    padding: 7px 15px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color:white;
+    background-color: rgb(110, 212, 110);
+}
+
+.left, .right, .center{
+   
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+span{
+    display: block;
+    font-size: 36px;
+}
+img{
+    width: 48px;
+    height: 52;
+}
+.content-center{
+    padding: 15px;
+}
+.container-fluid{
+    height: 565px;
+   
+    text-align: center;
+}
+
+
+.banner_2, .icon-and-title{
+    display: inline-block;
+}
+.container{
+    
+    
+    height: 565px;
+    width: 100%;
+    
+    display: flex;
+    padding: 100px 0px;
+    justify-content: center;
+    text-align: left;
+
+}
+
+.banner_2,.text_content{
+    margin: 10px;
+    height: 365px;
+    width: 540px;
+    
+    
+}
+.img_banner_2{
+    height: 100%;
+    width: 100%;
+}
+
+
+.leart_icon, .today_i_learnt{
+    display: inline;
+    
+}
+.leart_icon{
+    height: 36px;
+    margin-top: 14px;
+}
+.today_i_learnt{
+    margin-left: 19px;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 63px;
+    
+}
+.span1{
+        height: 25px;
+        font-size: 14px;
+        padding-left:20px;
+}
+.p_text{
+        margin-top: 25px;
+        line-height: 24px;
+        text-align: justify;
+        font-size: 13px;
+}
+.Button_start{
+    height: 36px;
+    width: 140px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #66bb6a, #43a047);
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
