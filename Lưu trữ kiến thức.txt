@@ -1,5 +1,0 @@
-- đưa block từ bên phải sang bên trái : text-align: right(css ở div mẹ, thay đổi thuộc tính của div con)
-- bỏ dấu gạch dưới cho mục href: text-decoration: none
-
-- in hoa : text-transforom: uppercase
-- bo tròn boder: border-radius: 20px
